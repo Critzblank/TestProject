@@ -33,7 +33,7 @@ export default class Main extends Component<Props> {
             <View style={styles.container}>
 
                 <View style={styles.header}>
-                    <Text style={styles.headerText}>- NOTER -</Text>
+                    <Text style={styles.headerText}>- NoteOne -</Text>
                 </View>
 
                 <ScrollView style={styles.scrollContainer}>
